@@ -1,10 +1,10 @@
 <!-- README.md para GitHub profile -->
 
-<h1 align="center">Hi 👋, I'm Henry Martinez</h1>
+<h1 align="center">Welcome to my profile 👋! I'm Henry Martinez</h1>
 <h3 align="center">Software Engineer | Problem Solver | Java & Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif" width="300" />
 </p>
 
 ---
