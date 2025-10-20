@@ -10,7 +10,7 @@
 ---
 
 🌍 **Location:** Villavicencio, Colombia  
-💻 **Current Role:** Software Engineer III at [Wizeline](https://www.wizeline.com)  
+💻 **Current Role:** Senior Software Engineer at [Akkodis](https://www.akkodis.com/)  
 🎓 **Studies:** Systems Engineering + Specialization in Software Engineering  
 📜 **Certifications:** AWS Certified Cloud Practitioner  
 🎮 **Hobbies:** Tech exploration, problem-solving, and video games  
