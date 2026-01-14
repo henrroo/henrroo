@@ -10,7 +10,7 @@
 ---
 
 🌍 **Location:** Villavicencio, Colombia  
-💻 **Current Role:** Senior Software Engineer at [Wizeline](https://www.wizeline.com/)  
+💻 **Current Role:** Software Engineer at [Bitso](https://bitso.com/)  
 🎓 **Studies:** Systems Engineering + Specialization in Software Engineering  
 📜 **Certifications:** AWS Certified Cloud Practitioner  
 🎮 **Hobbies:** Tech exploration, problem-solving, and video games  
@@ -20,7 +20,7 @@
 
 ### 🧠 About Me
 
-I’m a passionate software engineer with over 4 years of experience building scalable, secure, and maintainable applications. Currently working on HBO Max (Warner Bros Discovery) via Wizeline, focusing on user authentication, identity integration, and cloud-native development.
+I’m a passionate software engineer with over 5 years of experience building scalable, secure, and maintainable applications. Currently working on Bitso, for their Cosmos squad.
 
 I love **solving problems**, and I try to improve daily by tackling coding challenges on [LeetCode](https://leetcode.com/u/henrro/). Beyond work, I’m always exploring new tools and technologies—and I’m a lifelong gamer 🎮.
 
@@ -62,7 +62,7 @@ Whether it's designing robust APIs, automating deployments, or debugging legacy 
 
 ### 🎯 What I'm Currently Up To
 
-- 💼 Contributing to the HBO Max platform (authentication, migration & security)
+- 💼 Contributing to the Bitso Cosmos squad
 - 📚 Studying AWS & cloud architecture best practices
 - 🧠 Improving algorithmic thinking on [LeetCode](https://leetcode.com/u/henrro/)
 - 🎮 Playing story-rich and competitive games in my free time
